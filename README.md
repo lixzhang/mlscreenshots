@@ -1,1 +1,1 @@
-to save certain screenshots for test purposes
+to save screenshots
