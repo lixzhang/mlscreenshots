@@ -1,2 +1,3 @@
-to save screenshots
-change on github
+# Screenshot
+
+This is used to save screenshots.
